@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tayfun
+### Hello I'm Tayfun 👋
 ![](https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/3.png)
 
 
@@ -9,6 +9,7 @@ Skills
 - Python
 - Java,Spring,JPA,Maven
 - c/c++
+- Javascript ➡️ NODEJS
 
 - ✨ I’m currently working on Game Startups - {entrepreneurship} 
 
