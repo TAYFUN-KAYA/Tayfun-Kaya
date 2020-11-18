@@ -6,7 +6,7 @@
 
 Skills
 ------
-- entrepreneurship [GAME] 🎮
+- Entrepreneur [GAME] 
 - Malware Engineer
 - Python
 - Java,Spring,JPA,Maven
