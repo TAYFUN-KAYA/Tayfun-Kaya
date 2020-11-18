@@ -1,4 +1,4 @@
-![](https://img.freepik.com/free-vector/speed-lights-background_23-2148609119.jpg?size=626&ext=jpg)
+![](https://pbs.twimg.com/profile_banners/1146190022275739650/1605723498/600x200)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
