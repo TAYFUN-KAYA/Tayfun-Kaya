@@ -1,5 +1,10 @@
-### Hi there 👋
+![](https://image.freepik.com/free-vector/monkey-heads-with-cyborg-brain-updating-circuit-background_48369-13467.jpg)
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
