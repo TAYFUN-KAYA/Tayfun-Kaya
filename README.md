@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tayfun
-![](https://image.freepik.com/free-vector/abstract-big-data-technology-concept-background-design_1017-22911.jpg)
+![](https://image.freepik.com/free-photo/double-exposure-image-financial-graph-virtual-human_34663-70.jpg)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
