@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tayfun
-![](https://image.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-195.jpg)
+![](https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/Tayfun%20Kaya.png)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
