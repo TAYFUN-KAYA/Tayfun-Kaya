@@ -1,4 +1,4 @@
-![](https://image.freepik.com/free-vector/monkey-heads-with-cyborg-brain-updating-circuit-background_48369-13467.jpg)
+![](https://img.freepik.com/free-vector/speed-lights-background_23-2148609119.jpg?size=626&ext=jpg)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
