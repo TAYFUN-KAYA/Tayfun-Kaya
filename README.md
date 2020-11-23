@@ -1,4 +1,4 @@
-### Hello I'm Tayfun 👋
+### Hello 👋
 ![](https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/Tayfun%20Kaya.png)
 
 ### I've been dealing with computers and games since the age of seven.
