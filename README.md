@@ -1,6 +1,5 @@
-### Hello 👋
+### 👋
 
-Skils
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/fig2.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/html.png" width="50" height="50" />
