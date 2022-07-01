@@ -49,4 +49,4 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
 </p>
 
 💬 you can always contact me. -->> tayfunkaya.uni@gmail.com 
-
+https://www.linkedin.com/in/tayfun-kaya-job/
