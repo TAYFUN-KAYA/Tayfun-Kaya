@@ -1,7 +1,7 @@
 ### 👋
 ### Hello
 
-My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
+#### My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
 
 <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/tayfun%20kaya.png"  />
 
