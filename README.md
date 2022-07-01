@@ -1,6 +1,9 @@
 ### 👋
 ### Hello
+
 My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
+
+What I speak...
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/fig2.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/html.png" width="50" height="50" />
@@ -10,7 +13,7 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
  <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/angular.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/reactnative.png" width="50" height="50" />
 </p>
----
+I'm Using...
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/node.webp" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/flask.png" width="40" height="60" />
@@ -18,7 +21,6 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/spring.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/django.webp" width="50" height="50" />
 </p>
----
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/git.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/postman.png" width="50" height="50" />
@@ -26,12 +28,10 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/github.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/redis.png" width="60" height="50" />
 </p>
----
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/slack.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/notion.png" width="50" height="50" />
 </p>
----
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/vs.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/ws.png" width="50" height="50" />
