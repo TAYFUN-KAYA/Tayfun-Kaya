@@ -18,7 +18,7 @@ Skils
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/spring.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/django.webp" width="50" height="50" />
 </p>
-
+---
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/git.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/postman.png" width="50" height="50" />
@@ -26,12 +26,12 @@ Skils
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/github.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/redis.png" width="60" height="50" />
 </p>
-
+---
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/slack.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/notion.png" width="50" height="50" />
 </p>
-
+---
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/vs.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/webstrom.png" width="50" height="50" />
