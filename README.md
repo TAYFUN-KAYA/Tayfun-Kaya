@@ -3,6 +3,8 @@
 
 My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
 
+<img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/fig2.png" width="50" height="50" />
+
 #### What I speak...
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/fig2.png" width="50" height="50" />
