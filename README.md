@@ -3,7 +3,7 @@
 
 My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
 
-### What I speak...
+#### What I speak...
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/fig2.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/html.png" width="50" height="50" />
@@ -14,7 +14,7 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/reactnative.png" width="50" height="50" />
 </p>
 
-I enjoy writing...
+#### I enjoy writing...
 
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/node.webp" width="50" height="50" />
@@ -24,7 +24,7 @@ I enjoy writing...
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/django.webp" width="50" height="50" />
 </p>
 
-I like to use tools
+#### I like to use tools
 
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/git.png" width="50" height="50" />
@@ -34,14 +34,14 @@ I like to use tools
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/redis.png" width="60" height="50" />
 </p>
 
-I usually use it in communication and business follow-up.
+#### I usually use it in communication and business follow-up.
 
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/slack.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/notion.png" width="50" height="50" />
 </p>
 
-# These are my cookies
+#### These are my cookies
 
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/vs.svg.png" width="50" height="50" />
