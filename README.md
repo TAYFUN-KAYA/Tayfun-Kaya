@@ -13,7 +13,9 @@ What I speak...
  <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/angular.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/reactnative.png" width="50" height="50" />
 </p>
-I'm Using...
+
+I enjoy writing...
+
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/node.webp" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/flask.png" width="40" height="60" />
@@ -21,6 +23,9 @@ I'm Using...
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/spring.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/django.webp" width="50" height="50" />
 </p>
+
+I like to use tools
+
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/git.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/postman.png" width="50" height="50" />
@@ -28,10 +33,16 @@ I'm Using...
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/github.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/redis.png" width="60" height="50" />
 </p>
+
+I usually use it in communication and business follow-up.
+
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/slack.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/notion.png" width="50" height="50" />
 </p>
+
+#These are my cookies
+
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/vs.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/ws.png" width="50" height="50" />
