@@ -48,5 +48,10 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/ws.png" width="50" height="50" />
 </p>
 
-💬 you can always contact me. -->> tayfunkaya.uni@gmail.com 
-https://www.linkedin.com/in/tayfun-kaya-job/
+📥 Contact Me
+
+<p float="left">
+  <p> tayfunkaya.uni@gmail.com </p>
+  <p> https://www.linkedin.com/in/tayfun-kaya-job/ </p>
+</p>
+
