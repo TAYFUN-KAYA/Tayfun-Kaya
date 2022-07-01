@@ -13,7 +13,7 @@ Skils
 ---
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/node.webp" width="50" height="50" />
-  <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/flask.png" width="30" height="60" />
+  <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/flask.png" width="40" height="60" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/go.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/spring.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/django.webp" width="50" height="50" />
