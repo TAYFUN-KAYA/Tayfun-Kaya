@@ -1,8 +1,9 @@
 ### 👋
 ### Hello
 
-#### My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
-
+<p float="left">
+  <h2> My name is Tayfun Kaya, I'm a Software Engineer in İstanbul </h2>
+</p>
 <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/tayfun%20kaya.png"  />
 
 #### What I speak...
