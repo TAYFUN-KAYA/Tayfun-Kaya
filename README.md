@@ -3,7 +3,7 @@
 
 My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
 
-What I speak...
+### What I speak...
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/fig2.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/html.png" width="50" height="50" />
@@ -41,7 +41,7 @@ I usually use it in communication and business follow-up.
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/notion.png" width="50" height="50" />
 </p>
 
-#These are my cookies
+# These are my cookies
 
 <p float="left">
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/vs.svg.png" width="50" height="50" />
