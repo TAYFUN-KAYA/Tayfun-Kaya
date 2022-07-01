@@ -24,7 +24,7 @@ Skils
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/postman.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/npm.svg.png" width="50" height="50" />
   <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/github.png" width="50" height="50" />
-  <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/redis.png" width="50" height="50" />
+  <img src="https://github.com/TAYFUN-KAYA/Tayfun-Kaya/blob/main/redis.png" width="60" height="50" />
 </p>
 
 💬 you can always contact me. -->> tayfunkaya.uni@gmail.com 
