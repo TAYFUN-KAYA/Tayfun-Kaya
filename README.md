@@ -51,7 +51,7 @@ My name is Tayfun Kaya, I'm a Software Engineer in İstanbul
 📥 Contact Me
 
 <p float="left">
-  <p> tayfunkaya.uni@gmail.com </p>
+  <a href="mailto:tayfunkaya.uni@gmail.com">Send Email</a>
   <p> https://www.linkedin.com/in/tayfun-kaya-job/ </p>
 </p>
 
